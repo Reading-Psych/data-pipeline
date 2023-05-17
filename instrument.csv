@@ -1,0 +1,7 @@
+"Variable / Field Name","Form Name","Section Header","Field Type","Field Label","Choices, Calculations, OR Slider Labels","Field Note","Text Validation Type OR Show Slider Number","Text Validation Min","Text Validation Max",Identifier?,"Branching Logic (Show field only if...)","Required Field?","Custom Alignment","Question Number (surveys only)","Matrix Group Name","Matrix Ranking?","Field Annotation"
+id,consent,,text,"Record ID",,,,,,,,,,,,,
+prolific_pid,consent,,text,"Prolific PID",,,,,,,,,,,,," @HIDDEN"
+study_id,consent,,text,"Study ID",,,,,,,,,,,,," @HIDDEN"
+session_id,consent,,text,"Session ID",,,,,,,,,,,,," @HIDDEN"
+info,consent,,descriptive,"By clicking yes below I agree and consent to participating in this study being conducted by The University of Reading, and confirm that I have read the Participant Information Sheet. I understand that no personal information about me will be collected by the investigators, and that completely anonymised data from the study may be shared with the wider research community in appropriate open access data repositories. I understand that participation in this study is voluntary and that I can withdraw at any time without having to give an explanation. I am happy to proceed with my participation.",,,,,,,,,,,,,
+consent,consent,,yesno,"I consent to taking part.",,,,,,,,,,,,,
