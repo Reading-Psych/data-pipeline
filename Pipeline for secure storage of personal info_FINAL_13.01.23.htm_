@@ -1,0 +1,3510 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/filelist.xml">
+<link rel=Edit-Time-Data
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Andrew Glennerster</o:Author>
+  <o:LastAuthor>Anthony Haffey</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
+  <o:Created>2023-05-18T12:32:00Z</o:Created>
+  <o:LastSaved>2023-05-19T10:43:00Z</o:LastSaved>
+  <o:Pages>34</o:Pages>
+  <o:Words>8072</o:Words>
+  <o:Characters>46013</o:Characters>
+  <o:Lines>383</o:Lines>
+  <o:Paragraphs>107</o:Paragraphs>
+  <o:CharactersWithSpaces>53978</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:ReadOnlyRecommended/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=dataStoreItem
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/item0094.xml"
+target="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/props095.xml">
+<link rel=dataStoreItem
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/item0096.xml"
+target="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/props097.xml">
+<link rel=dataStoreItem
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/item0098.xml"
+target="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/props099.xml">
+<link rel=themeData
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>169</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-GB</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><![if !supportAnnotations]>
+<style id="dynCom" type="text/css"><!-- --></style>
+<script language="JavaScript"><!--
+function msoCommentShow(anchor_id, com_id)
+{
+	if(msoBrowserCheck()) 
+		{
+		c = document.all(com_id);
+		a = document.all(anchor_id);
+		if (null != c && null == c.length && null != a && null == a.length)
+			{
+			var cw = c.offsetWidth;
+			var ch = c.offsetHeight;
+			var aw = a.offsetWidth;
+			var ah = a.offsetHeight;
+			var x  = a.offsetLeft;
+			var y  = a.offsetTop;
+			var el = a;
+			while (el.tagName != "BODY") 
+				{
+				el = el.offsetParent;
+				x = x + el.offsetLeft;
+				y = y + el.offsetTop;
+				}
+			var bw = document.body.clientWidth;
+			var bh = document.body.clientHeight;
+			var bsl = document.body.scrollLeft;
+			var bst = document.body.scrollTop;
+			if (x + cw + ah / 2 > bw + bsl && x + aw - ah / 2 - cw >= bsl ) 
+				{ c.style.left = x + aw - ah / 2 - cw; }
+			else 
+				{ c.style.left = x + ah / 2; }
+			if (y + ch + ah / 2 > bh + bst && y + ah / 2 - ch >= bst ) 
+				{ c.style.top = y + ah / 2 - ch; }
+			else 
+				{ c.style.top = y + ah / 2; }
+			c.style.visibility = "visible";
+}	}	}
+function msoCommentHide(com_id) 
+{
+	if(msoBrowserCheck())
+		{
+		c = document.all(com_id);
+		if (null != c && null == c.length)
+		{
+		c.style.visibility = "hidden";
+		c.style.left = -1000;
+		c.style.top = -1000;
+		} } 
+}
+function msoBrowserCheck()
+{
+	ms = navigator.appVersion.indexOf("MSIE");
+	vers = navigator.appVersion.substring(ms + 5, ms + 6);
+	ie4 = (ms > 0) && (parseInt(vers) >= 4);
+	return ie4;
+}
+if (msoBrowserCheck())
+{
+	document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground");
+	document.styleSheets.dynCom.addRule(".msocomoff","display: none");
+	document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden");
+	document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute");
+	document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000");
+	document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000");
+	document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%");
+	document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground");
+	document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt");
+	document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100");
+}
+// --></script>
+<![endif]>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:77;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 -2147483647 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;
+	mso-font-alt:"游ゴシック Light";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 717749759 22 0 131231 0;}
+@font-face
+	{font-family:"Yu Mincho";
+	panose-1:2 2 4 0 0 0 0 0 0 0;
+	mso-font-alt:游明朝;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147482905 717749503 18 0 131231 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 717749759 22 0 131231 0;}
+@font-face
+	{font-family:"\@Yu Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147482905 717749503 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.6pt;
+	text-indent:-21.6pt;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-list:l6 level1 lfo4;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:0pt;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h2
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:28.8pt;
+	text-indent:-28.8pt;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-list:l6 level2 lfo4;
+	font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	text-indent:-36.0pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-list:l6 level3 lfo4;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 4 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:43.2pt;
+	text-indent:-43.2pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	mso-list:l6 level4 lfo4;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-fareast-language:EN-US;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:50.4pt;
+	text-indent:-50.4pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	mso-list:l6 level5 lfo4;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 6 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:57.6pt;
+	text-indent:-57.6pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	mso-list:l6 level6 lfo4;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 7 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:64.8pt;
+	text-indent:-64.8pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-list:l6 level7 lfo4;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 8 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:72.0pt;
+	text-indent:-72.0pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	mso-list:l6 level8 lfo4;
+	font-size:10.5pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-fareast-language:EN-US;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 9 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:79.2pt;
+	text-indent:-79.2pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	mso-list:l6 level9 lfo4;
+	font-size:10.5pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	tab-stops:24.0pt right dotted 450.5pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:12.0pt;
+	mso-pagination:widow-orphan;
+	tab-stops:55.0pt right dotted 450.5pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:24.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-priority:99;
+	mso-style-link:"Comment Text Char";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-priority:35;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoTof, li.MsoTof, div.MsoTof
+	{mso-style-priority:99;
+	mso-style-next:Normal;
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"Comment Text";
+	mso-style-link:"Comment Subject Char";
+	mso-style-next:"Comment Text";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+p.MsoRMPane, li.MsoRMPane, div.MsoRMPane
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{mso-style-priority:39;
+	mso-style-qformat:yes;
+	mso-style-parent:"Heading 1";
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 4";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 6";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 7";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F3763;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	font-style:italic;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 8";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 9";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	font-style:italic;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Comment Text";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+span.normaltextrun
+	{mso-style-name:normaltextrun;
+	mso-style-unhide:no;}
+span.eop
+	{mso-style-name:eop;
+	mso-style-unhide:no;}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Comment Text Char";
+	mso-style-link:"Comment Subject";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-weight:bold;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Title;
+	mso-ansi-font-size:28.0pt;
+	mso-bidi-font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Yu Gothic Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:595.0pt 842.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:259409544;
+	mso-list-type:hybrid;
+	mso-list-template-ids:535172898 134807567 134807577 134807579 134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:476074447;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1653641440 1239297282 -220956872 728822124 1638304104 -683894830 -690593686 1206546750 -767913720 1967165970;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l2
+	{mso-list-id:890337519;
+	mso-list-type:hybrid;
+	mso-list-template-ids:773372074 -566177872 134807555 134807557 134807553 134807555 134807557 134807553 134807555 134807557;}
+@list l2:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1198930706;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1292962464 134807567 134807577 134807579 134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l3:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4
+	{mso-list-id:1270313816;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-296047788 -913385400 134807577 134807579 134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5
+	{mso-list-id:1716200132;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1041099700 169766462 -1136767012 48369156 313932136 -1002259350 -567493210 970196830 -614822666 1362942342;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l6
+	{mso-list-id:1758405028;
+	mso-list-template-ids:134807589;}
+@list l6:level1
+	{mso-level-style-link:"Heading 1";
+	mso-level-text:%1;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:21.6pt;
+	text-indent:-21.6pt;}
+@list l6:level2
+	{mso-level-style-link:"Heading 2";
+	mso-level-text:"%1\.%2";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:28.8pt;
+	text-indent:-28.8pt;}
+@list l6:level3
+	{mso-level-style-link:"Heading 3";
+	mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.0pt;
+	text-indent:-36.0pt;}
+@list l6:level4
+	{mso-level-style-link:"Heading 4";
+	mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:43.2pt;
+	text-indent:-43.2pt;}
+@list l6:level5
+	{mso-level-style-link:"Heading 5";
+	mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:50.4pt;
+	text-indent:-50.4pt;}
+@list l6:level6
+	{mso-level-style-link:"Heading 6";
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:57.6pt;
+	text-indent:-57.6pt;}
+@list l6:level7
+	{mso-level-style-link:"Heading 7";
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:64.8pt;
+	text-indent:-64.8pt;}
+@list l6:level8
+	{mso-level-style-link:"Heading 8";
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:72.0pt;
+	text-indent:-72.0pt;}
+@list l6:level9
+	{mso-level-style-link:"Heading 9";
+	mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:79.2pt;
+	text-indent:-79.2pt;}
+@list l7
+	{mso-list-id:1883057418;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1573794982 969420728 -115821228 -798206668 101863228 149567422 -121753554 -764372790 -140720676 289954102;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1059"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-GB link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoTitle>Setting up a pipeline for secure storage of personal
+information plus an anonymous online experiment </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
+ ID="1149254520">
+ <p class=MsoTocHeading><span lang=EN-US>Contents</span><span style='font-size:
+ 12.0pt;line-height:107%;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+ minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+ mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+ Arial;mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:EN-GB'><w:sdtPr></w:sdtPr></span></p>
+ <p class=MsoToc1><!--[if supportFields]><span style='mso-element:field-begin'></span><span
+ style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
+ style='mso-element:field-separator'></span><![endif]--><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc135308260">1<span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ color:windowtext;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+ mso-fareast-language:EN-GB;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1'>      </span></span>Why am I being asked to do this?<span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308260 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>2</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308261">2<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Things
+ you need before you build the pipeline<span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308261 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308262">3<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Making
+ a new REDCap project and adding an Information Sheet and Consent form<span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308262 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308263">4<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Passing
+ participant ID from SONA to REDCap<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308263 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>4</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308264">5<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Finding
+ the right URL from Gorilla to allow REDCap to pass it a participant ID<span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308264 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>5</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308265">6<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Passing
+ participant ID from REDCap to Gorilla<span style='color:windowtext;display:
+ none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308265 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>7</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308266"><span style='mso-fareast-font-family:Calibri'>7</span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ color:windowtext;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+ mso-fareast-language:EN-GB;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1'>      </span></span><span style='mso-fareast-font-family:
+ Calibri'>Passing participant from Gorilla back to SONA for automatic crediting</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308266 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>8</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360036000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308267"><span style='font-family:"Calibri Light",sans-serif'>8</span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ color:windowtext;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+ mso-fareast-language:EN-GB;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1'>      </span></span>Testing the pipeline without using
+ up credits/tokens<span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308267 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>11</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360037000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308268">9<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>      </span></span>Alternative
+ platforms (other than SONA and Gorilla)<span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308268 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>17</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360038000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308269">9.1<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>         </span></span>Prolific
+ academic<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308269 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>17</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200360039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308270">10<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>    </span></span>Extra
+ detail (referred to in text above)<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308270 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>24</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308271">10.1<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Background
+ on SONA<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308271 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>24</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308272">10.2<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Getting
+ a SONA account and logging in<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308272 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>24</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308273">10.3<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Background
+ on REDCap<span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308273 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>25</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308274">10.4<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Requesting
+ and setting up a REDCap project<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308274 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>25</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308275">10.5<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Adding
+ the information sheet and consent form to REDCap<span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308275 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>25</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc3 style='tab-stops:72.0pt right dotted 450.5pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc135308276">10.5.1<span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ color:windowtext;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+ mso-fareast-language:EN-GB;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1'>      </span></span>Editing the Information Sheet and
+ Consent Form<span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308276 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>27</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370036000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308277">10.6<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Setting
+ up a Gorilla account and experiment<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308277 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>28</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370037000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308278">10.7<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Recognising
+ URLS from SONA, Gorilla and REDCap<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308278 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>29</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370038000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308279">10.8<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>Deleting
+ test participant data from Gorilla<span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308279 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>29</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200370039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308280">10.9<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>       </span></span>External
+ Study Credit Granting with REDCap (REDCap &gt; SONA)<span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308280 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>30</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200380030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1><span class=MsoHyperlink><span style='mso-no-proof:yes'><a
+ href="#_Toc135308281">11<span style='mso-fareast-font-family:"Yu Mincho";
+ mso-fareast-theme-font:minor-fareast;color:windowtext;mso-font-kerning:1.0pt;
+ mso-ligatures:standardcontextual;mso-fareast-language:EN-GB;text-decoration:
+ none;text-underline:none'><span style='mso-tab-count:1'>    </span></span>Table
+ of Figures<span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc135308281 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>33</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100330035003300300038003200380031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-fareast-font-family:"Yu Mincho";mso-fareast-theme-font:minor-fareast;
+ mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-fareast-language:
+ EN-GB;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoNormal><!--[if supportFields]><b><span style='mso-no-proof:yes'><span
+ style='mso-element:field-end'></span></span></b><![endif]--><o:p>&nbsp;</o:p></p>
+</w:Sdt>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<h1 style='margin-left:21.55pt;text-indent:-21.55pt;page-break-before:always;
+mso-list:l6 level1 lfo4'><a name="_Toc816601799"></a><a name="_Toc1212667949"></a><a
+name="_Toc135308260"><span style='mso-bookmark:_Toc1212667949'><span
+style='mso-bookmark:_Toc816601799'><![if !supportLists]><span style='mso-fareast-font-family:
+"Calibri Light";mso-fareast-theme-font:major-latin;mso-bidi-font-family:"Calibri Light";
+mso-bidi-theme-font:major-latin'><span style='mso-list:Ignore'>1<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Why
+am I being asked to do this?</span></span></a></h1>
+
+<p class=MsoNormal>The University (DTS, IMPS, UREC) are concerned about the
+security of apps and online platforms, especially where they may store
+sensitive data. In PCLS, staff would like to use new apps and online platforms.
+It would be a <i>bona fide</i> nightmare to try and get each of these approved
+by DAS (the vetting committee for new software); often this takes years. A better
+solution is to ensure that personal information is stored on <span
+class=SpellE>REDCap</span> and then an anonymous ID is passed out to the online
+platform (<span class=SpellE><span class=GramE>eg</span></span> <i>Gorilla</i>),
+the data is collected in the online platform and then information is passed
+back to <span class=SpellE>REDCap</span> and/or the program that pays/credits
+the participant. Anyway, that is why we are introducing this system: the
+alternative could be much worse. This guide is designed to help you set up
+online experiments in this way. </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>We start with the following paradigm as an example. At the
+end, we will describe variations on this theme (<span class=SpellE><span
+class=GramE>eg</span></span> using a different platform other than Gorilla).</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoCaption style='page-break-after:avoid'><a name="_Toc110953762"></a><a
+name="_Toc135308282"><span style='mso-bookmark:_Toc110953762'>Figure </span></a><!--[if supportFields]><span
+style='mso-bookmark:_Toc135308282'><span style='mso-bookmark:_Toc110953762'></span></span><span
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc135308282'><span
+style='mso-bookmark:_Toc110953762'><span style='mso-spacerun:yes'> </span>SEQ
+Figure \* ARABIC <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+style='mso-bookmark:_Toc135308282'><span style='mso-bookmark:_Toc110953762'><span
+style='mso-no-proof:yes'>1</span></span></span><!--[if supportFields]><span
+style='mso-bookmark:_Toc135308282'><span style='mso-bookmark:_Toc110953762'></span></span><span
+style='mso-element:field-end'></span><![endif]--><span style='mso-bookmark:
+_Toc135308282'><span style='mso-bookmark:_Toc110953762'> - Flow diagram showing
+participant moving from one platform to another. We will use this as the basic
+paradigm and then describe variations later.</span></span><span
+style='mso-bookmark:_Toc110953762'></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:_Toc110953762'><o:p>&nbsp;</o:p></span></p>
+
+<span style='mso-bookmark:_Toc110953762'></span>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:roundrect id="Text_x0020_Box_x0020_24"
+ o:spid="_x0000_s1058" style='position:absolute;margin-left:143.25pt;
+ margin-top:123pt;width:131.25pt;height:54.75pt;z-index:251658241;visibility:visible;
+ mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+ mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+ mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+ mso-position-vertical:absolute;mso-position-vertical-relative:text;
+ mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;
+ mso-height-relative:margin;v-text-anchor:top' arcsize="10923f" o:gfxdata="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
+" fillcolor="white [3201]" strokecolor="#4472c4 [3204]" strokeweight="1pt">
+ <v:stroke joinstyle="miter"/>
+ <v:textbox>
+  <![if !mso]>
+  <table cellpadding=0 cellspacing=0 width="100%">
+   <tr>
+    <td><![endif]>
+    <div>
+    <p class=MsoNormal align=center style='text-align:center'><i><span
+    style='font-size:10.0pt'>Confirm participation so that participant can be
+    awarded credits/<span class=GramE>payment</span><o:p></o:p></span></i></p>
+    </div>
+    <![if !mso]></td>
+   </tr>
+  </table>
+  <![endif]></v:textbox>
+</v:roundrect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+position:relative;z-index:251658241'><span style='position:absolute;left:133px;
+top:-171px;width:136px;height:59px'><img width=136 height=59
+src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image001.png"
+alt="Rounded Rectangle: Confirm participation so that participant can be awarded credits/payment"
+v:shapes="Text_x0020_Box_x0020_24"></span></span><![endif]><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t104" coordsize="21600,21600" o:spt="104" adj="12960,19440,7200"
+ path="ar0@22@3@21,,0@4@21@14@22@1@21@7@21@12@2l@13@2@8,0@11@2wa0@22@3@21@10@2@16@24@14@22@1@21@16@24@14,xewr@14@22@1@21@7@21@16@24nfe">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="val #0"/>
+  <v:f eqn="val #1"/>
+  <v:f eqn="val #2"/>
+  <v:f eqn="sum #0 width #1"/>
+  <v:f eqn="prod @3 1 2"/>
+  <v:f eqn="sum #1 #1 width"/>
+  <v:f eqn="sum @5 #1 #0"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="mid width #0"/>
+  <v:f eqn="ellipse #2 height @4"/>
+  <v:f eqn="sum @4 @9 0"/>
+  <v:f eqn="sum @10 #1 width"/>
+  <v:f eqn="sum @7 @9 0"/>
+  <v:f eqn="sum @11 width #0"/>
+  <v:f eqn="sum @5 0 #0"/>
+  <v:f eqn="prod @14 1 2"/>
+  <v:f eqn="mid @4 @7"/>
+  <v:f eqn="sum #0 #1 width"/>
+  <v:f eqn="prod @17 1 2"/>
+  <v:f eqn="sum @16 0 @18"/>
+  <v:f eqn="val width"/>
+  <v:f eqn="val height"/>
+  <v:f eqn="sum 0 0 height"/>
+  <v:f eqn="sum @16 0 @4"/>
+  <v:f eqn="ellipse @23 @4 height"/>
+  <v:f eqn="sum @8 128 0"/>
+  <v:f eqn="prod @5 1 2"/>
+  <v:f eqn="sum @5 0 128"/>
+  <v:f eqn="sum #0 @16 @11"/>
+  <v:f eqn="sum width 0 #0"/>
+  <v:f eqn="prod @29 1 2"/>
+  <v:f eqn="prod height height 1"/>
+  <v:f eqn="prod #2 #2 1"/>
+  <v:f eqn="sum @31 0 @32"/>
+  <v:f eqn="sqrt @33"/>
+  <v:f eqn="sum @34 height 0"/>
+  <v:f eqn="prod width height @35"/>
+  <v:f eqn="sum @36 64 0"/>
+  <v:f eqn="prod #0 1 2"/>
+  <v:f eqn="ellipse @30 @38 height"/>
+  <v:f eqn="sum @39 0 64"/>
+  <v:f eqn="prod @4 1 2"/>
+  <v:f eqn="sum #1 0 @41"/>
+  <v:f eqn="prod height 4390 32768"/>
+  <v:f eqn="prod height 28378 32768"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" o:connecttype="custom" o:connectlocs="@8,0;@11,@2;@15,0;@16,@21;@13,@2"
+  o:connectangles="270,270,270,90,0" textboxrect="@41,@43,@42,@44"/>
+ <v:handles>
+  <v:h position="#0,topLeft" xrange="@37,@27"/>
+  <v:h position="#1,topLeft" xrange="@25,@20"/>
+  <v:h position="bottomRight,#2" yrange="0,@40"/>
+ </v:handles>
+ <o:complex v:ext="view"/>
+</v:shapetype><v:shape id="Curved_x0020_Up_x0020_Arrow_x0020_23" o:spid="_x0000_s1057"
+ type="#_x0000_t104" style='position:absolute;margin-left:39.75pt;margin-top:90pt;
+ width:303.75pt;height:54pt;flip:x;z-index:251658240;visibility:visible;
+ mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+ mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+ mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+ mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
+ mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:middle'
+ o:gfxdata="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
+" adj="19680,20640,5100" fillcolor="#4472c4 [3204]" strokecolor="#1f3763 [1604]"
+ strokeweight="1pt"/><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+position:relative;z-index:251658240'><span style='position:absolute;left:30px;
+top:-204px;width:304px;height:54px'><img width=304 height=54
+src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image002.png"
+v:shapes="Curved_x0020_Up_x0020_Arrow_x0020_23"></span></span><![endif]><span
+style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Diagram_x0020_22" o:spid="_x0000_i1074" type="#_x0000_t75"
+ style='width:386pt;height:118pt;visibility:visible' o:gfxdata="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
+BQYAAAAACgAKAJsCAAAEIwAAAAA=
+">
+ <v:imagedata src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image003.png"
+  o:title="" croptop="-26214f" cropbottom="-26971f"/>
+ <o:lock v:ext="edit" aspectratio="f"/>
+</v:shape><![endif]--><![if !vml]><img width=386 height=118
+src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image004.png"
+v:shapes="Diagram_x0020_22"><![endif]></span></p>
+
+<p class=MsoCaption><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoCaption style='page-break-after:avoid'><a name="_Toc110953763"></a><a
+name="_Toc135308283"><span style='mso-bookmark:_Toc110953763'>Figure </span></a><!--[if supportFields]><span
+style='mso-bookmark:_Toc135308283'><span style='mso-bookmark:_Toc110953763'></span></span><span
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc135308283'><span
+style='mso-bookmark:_Toc110953763'><span style='mso-spacerun:yes'> </span>SEQ
+Figure \* ARABIC <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+style='mso-bookmark:_Toc135308283'><span style='mso-bookmark:_Toc110953763'><span
+style='mso-no-proof:yes'>2</span></span></span><!--[if supportFields]><span
+style='mso-bookmark:_Toc135308283'><span style='mso-bookmark:_Toc110953763'></span></span><span
+style='mso-element:field-end'></span><![endif]--><span style='mso-bookmark:
+_Toc135308283'><span style='mso-bookmark:_Toc110953763'> -Flow diagram to show
+how URL parameters take information from one platform to the next.</span></span><span
+style='mso-bookmark:_Toc110953763'></span></p>
+
+<span style='mso-bookmark:_Toc110953763'></span>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:roundrect id="Text_x0020_Box_x0020_27"
+ o:spid="_x0000_s1056" style='position:absolute;margin-left:114.8pt;
+ margin-top:143.7pt;width:76.7pt;height:40.95pt;z-index:251658243;visibility:visible;
+ mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+ mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+ mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+ mso-position-vertical:absolute;mso-position-vertical-relative:text;
+ mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;
+ mso-height-relative:margin;v-text-anchor:top' arcsize="10923f" o:gfxdata="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
+" fillcolor="white [3201]" strokecolor="#4472c4 [3204]" strokeweight="1pt">
+ <v:stroke joinstyle="miter"/>
+ <v:textbox>
+  <![if !mso]>
+  <table cellpadding=0 cellspacing=0 width="100%">
+   <tr>
+    <td><![endif]>
+    <div>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:8.0pt'>SONA sees that participant 13 has completed the
+    study and so awards their <span class=GramE>credits</span><o:p></o:p></span></p>
+    </div>
+    <![if !mso]></td>
+   </tr>
+  </table>
+  <![endif]></v:textbox>
+</v:roundrect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+position:relative;z-index:251658243'><span style='position:absolute;left:105px;
+top:-234px;width:81px;height:45px'><img width=81 height=45
+src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image005.png"
+alt="Rounded Rectangle: SONA sees that participant 13 has completed the study and so awards their credits"
+v:shapes="Text_x0020_Box_x0020_27"></span></span><![endif]><!--[if gte vml 1]><v:shape
+ id="Curved_x0020_Up_x0020_Arrow_x0020_26" o:spid="_x0000_s1055" type="#_x0000_t104"
+ style='position:absolute;margin-left:19.7pt;margin-top:123.3pt;width:229.7pt;
+ height:43.55pt;flip:x;z-index:251658242;visibility:visible;mso-wrap-style:square;
+ mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+ mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+ mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+ mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+ mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
+ mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:middle'
+ o:gfxdata="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
+" adj="20146,20873,5400" fillcolor="#4472c4 [3204]" strokecolor="#1f3763 [1604]"
+ strokeweight="1pt"/><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+position:relative;z-index:251658242'><span style='position:absolute;left:10px;
+top:-255px;width:229px;height:44px'><img width=229 height=44
+src="Pipeline%20for%20secure%20storage%20of%20personal%20info_FINAL_13.01.23.fld/image006.png"
+v:shapes="Curved_x0020_Up_x0020_Arrow_x0020_26"></span></span><![endif]><span
+style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Diagram_x0020_25"
+ o:spid="_x0000_i1073" type="#_x0000_t75" style='width:275pt;height:159pt;
+ visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQBgJjcoXAEAAHYEAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbLSUy07DMBRE
+90j8Q+QtStx2gRBq0kVTVggQlA+4sm9Sq34E20mbv8dJU1U8Ctl06cfMHF2PPF/slYwatE4YnZJp
+MiERama40GVK3tcP8R2JnAfNQRqNKWnRkUV2fTVftxW6KKi1S8nG++qeUsc2qMAlpkIdTgpjFfiw
+tCWtgG2hRDqbTG4pM9qj9rHvPEg2z7GAWvpotQ/bBxKL0pFoebjYZaUEqkoKBj6Q0kbzbynxkJAE
+ZX/HbUTlbgIGob8mdCfnAwbdcxiNFRyjF7D+CVTAoNw6ijOTG5b87dFBKhebohAMk9y6Va86Mp3z
+5gJKC8pRDh6mIzK+jnvI44bVKgw54RZ24TWVTAbjPNiOZpDQmtpfgOKxNx7N8VELtn3zrcQLsPS+
+o1GYkca6C2Ase+PRHMPDjgE5tfBnGw71+DfV7LTFZkQbT1mh8XmQvWJzdKf9r5F9AgAA//8DAFBL
+AwQUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAF9yZWxzLy5yZWxzpJDBasMwDIbvg72D0X1xmsMY
+o04vo9Br6R7A2IpjGltGMtn69jODwTJ621G/0PeJf3/4TItakSVSNrDrelCYHfmYg4H3y/HpBZRU
+m71dKKOBGwocxseH/RkXW9uRzLGIapQsBuZay6vW4mZMVjoqmNtmIk62tpGDLtZdbUA99P2z5t8M
+GDdMdfIG+OQHUJdbaeY/7BQdk9BUO0dJ0zRFd4+qPX3kM66NYjlgNeBZvkPGtWvPgb7v3f3TG9iW
+Oboj24Rv5LZ+HKhlP3q96XL8AgAA//8DAFBLAwQUAAYACAAAACEAvq7sY6EQAABZVgAAFgAAAGRy
+cy9kaWFncmFtcy9kYXRhMS54bWzUXNtuW0eWfR9g/oHgSz9VVPeLEaVR1x4D7sSI3Y0BGo0BTdI2
+EYpUSCqxZ9D/Pqso8ehQNxclix2/KAplFrnX2fe9dn3/509n88Fv09V6tlycDtl3dDiYLsbLyWzx
+4XT4t7eF2OFgvRktJqP5cjE9HX6erod//uE//+P7yYezF5PRZvTX5WQ6H+CUxfoFXjsdftxszl+c
+nKzHH6dno/V3y/PpAn99v1ydjTb439WHk8lq9DvOP5ufcEr1yWQ2+rAanQ2vDhk94oiz0Wwx/GH7
+nc43r9ab3a+Ds/rtXk5Oh//HfSlRKkG00ZxIXQSxgSribHFZGGF88f8aDjafzyHlZDneHbd6M90M
+5su3eL2ec7FavDibjVfL9fL95rvx8uxk+f79bDy9+s9otalCqRN7Mh99Xl5sTj6+Xi3H0/VaDnFK
+HG3qIeeXLw0Hv64PP/fXi9n4l/Xm83x6sp6dnc+nrJ5zdfLlK8PB+BEHj5fz5Wp9MhqPp4sN+x9e
+T7k69uq14eD843yygp4MTy4hXp+/XuHXk6oN53fBHopNUghKHOOKSKko8SVzQouJmQprC6X/2sN6
++xFvT4f/eDv9tPnnjQ+qn4OPGb14t5x83n706MV8vXmzhaO+fl5/rLY/Xq8G81FV4+mC/CXUg0Z4
+799+fjU4H0HfppvpajAerVaz6XqwhAnUlzez8ex8tNgMXqbBn5j40/cn9T31J87ETxy/lbW+dq/M
+IlGuZDYQl0PVuIrEx+SgecxTlYyVyXSqhg99uxot1kD702KrqVppx3MsAMp4Iq22JAgJTYXmemVc
+zGofsv1n0QbRdDF5DRR+vg1Sq5RU+FhUjERRl4gsicOWmCE8FeM0LcXk0km5nr37NqUsQplUhCHZ
+8gIprSEhOUkC5wniUxg7pLzyN1tf8e3rL/XRZRY0iYZCf1NSBHrnSco8MKqE4yV2T/a2/gIwapRP
+REgRiMwi4+0iEa6tDNxz4Qrbg+zfo7/OcakVHqouURDptUZAEJ5wpVnWxVIXUyflbf39RqS0Widv
+EPa8qFI6bomXkZMUozHc8RTC053JQ/4WXqZzqkwM1rMPi/Xg4nywWSKvuJh8HiwXgzc//egHyDEG
+43mNbfWl36fvBvPZ4peT6q+RPAzGy8UacWn7z369mK43SFgWo9lqun6Ujy7UepVkJpnRCLvOMGkj
+DfHZCOdtgL7z7unf1nGWoo2JReLqDwl/R5yxhRTLdaJKcleeDuvTfbSWzDPJElEGokpZIgmBJ8J8
+YLEwrjnXnZS3dfwbkTIHbznNlKisEXSLZ8RxHYiWkiGSKqPN0x/GQzr+c05xdD5YTcfL1WQ92Hwc
+bQY39B6ZIlK1DVKNnSLXjPhrabOXQsaSLaHJMCKDCwSYBMJLDtI7KgV/yGObWITcGkOgcBIlwOE7
+DYXJnMWkmJFB/AE8duJIKQy0GQFZQpulJnjwkVChndbZMice0uZvRkopMtWJWK0gpbIIn1paOKoo
+ZFA5ZIfssZdxPCZ8PqTNf1muZvP5qFGdp5/Op6vZGVzzaD7YjNa/PM4fM4icbVGk/kIkg6eCUnMi
+SnIqBENlrROuyrPb/lhbxp1AmLOAB9WdjIAvo3rlOrLkOVNfAbSn+2NvnFNeFpK5RGrvPHIOXhKh
+NDvukk80XFcGt/3xNyJlTMJE4QyhDJWetHBJziMBjFkox1EARQo77WnwZVn59luu+YKB14wUvsko
+VEMCWQEyKxRHNiNTsNEw5jr9vf1kjZIS71Yk+tqdoEkSbxColTbQmeAy5UhGe5A9xuifrr9OpGyF
+YiQ4YZEzVwvzVpHiiy0yB5gbAsW9VvqNSBlRGRifM7EQF3GGBoJkT5ComUIyzVDG9KREBtp/MINz
+vODX6+X4ZWpvO9U3/YiexOmw/kQTrr6w7WrExeZ0SLtPmK5fbftKfx+t1pfqMJnVDkyt+keL2dmr
+39DOG81Ph/Pf5rveCY6a/e/0v5Bgz5F/bP86/TQab+rfL7sY+Bf9Y69eROfr8uAvdnlEKlRLaENC
+MXWlFxp+3IYUkVDLnGoGttMLfFonT+2uPRGxzZvz23jt28f9vZpQipMpo+yjCcWqrRodeUb65JFA
++awcva4C6xf9mt/83VO+uYqOOecKoUgJ4HFgkEFRT7QIMbJssrW9CuYrf/Oug3lTT1txB7C1E0ZJ
+LKidJOMI3chv4PpgXklLWhhiRJvGtPUYt2p2aWM1GV+uZ5vaOn2sAFKHgDwN3937Cn9CY9NbSVjU
+8B/UFdFv8j0M/8ECTC7Ozj7/iN52X4BX72D2ixsvvpx8qu7jhphi5xq+aNmueAoD8cS6gNqKGUes
+lAEFFkT0WTha8vM9p4+z+eROMd998ONxX/j75NyFzH0HV73lu4s5CrK8GL2bTyeXXnHb1v46HjEz
+LTxFAmBMQj6bpCMuKkvgTrQPPAia1RFw23zqPfqtgvzhkYNTyFrkSHgOqGUF42h/o5sIXye1iMYL
+/3zIobJAJXOnyrVa1v0aN/7419GnnqY9vxaiLg4WTWo0AhKwTBFTBGU1MdzQnKSKnjXHiIOdFBod
+izdPdLIhcnx1SdCNgxUVhYq/oBbWTuVMjS4hlVYrapxX1HhwnYm5m+azS915+rL34c1e1vpopUK5
+b5JC+YoaGPMy5klG89zpGIKSaJm3RcO2icVd0RATv8dGwyQD2sk0E4wNamGL4YHPCfWLFQyVucvZ
+NCvawQJ00bAvwLNEw5RLRqIFZxRVbY85VLbRWjSkQglaBedMc9ZysJjjXTS8JebdPr2voNsqQnS5
+67GjocK8XTPKak8HGZOREglE7TKW7JOGRwpZPp9+d7i1RsM/EHLSOFNqIwztAXiGiIIUqRcMKypk
+yCJSqZo94MEadx0Nb6ncndHwINx60ZDuHOXz5mTecS8Vuio2RtR6VHnikMOjx5qERK/bp16PpnrC
+zl5uV6kHY7mLhn0kr2r79prJUx1KJtyATQCFwPgJ3RjCUHorFrlX1LZaUeP0cz8aMpCBugixdbAP
+hMNbygDJxxfgaoxH8+l/nw6RzVG5e/BfrENYQQ+tWEdKnSzLOln2AXN4dBistODvUNGcFbb1J++K
+kLdk6jT3iwIUiXkj4iAavhEREl1RPLwcCNIwZosuBTVv68M7WIAuQvYFuD9C9v/VVeRo1dGiUtYp
+CyJogKdXHmVxNHBaTCcQAKCkollHDxazi5B9AR6oem7Z4r8vQqKJgyTCY+qh65y+CNSLQQvi0H7k
+3NSKsbkP9QTcWiPkHwg5zD3BRzGBFI10THpMMK2DxoHrV1vnFDXONbHvC179YOSuI+QtlbszQh6E
+Wy9CdoS7542QYJ6paFEqWgYFlNsJmiyoFwuqLosZmlXNdcjBWO4iZB/JhyPkVVu3I3yCQdf/vcf+
+1IgaxVGw0wJ4PjJrR0J0igQaGNqomoo6kuoVWD+9B+91Nd4S8hJvmcgOJiClbP99oy3j+J9Wk0qm
+3L51+/tVp64e8wSm6ZWzBhw9CJxgNNS5FHoomN0wQ2EnouDZyiQwQQ+obe6FoI1icQ1BY8J/ZAja
++Czdc2/seHTPvY1rVY/fPev61t3vcCVbiuRWhRrpSbv0a/ueNrLPnboBGlwA+S2RAsII+kQG4/MM
+egXSLPD1EgerZD9q982jsbHSwSTbmjr3wYS8/FnMI+cY0WYhMAUE4MofcrVCYNFIMMTR5rb3Q9BI
+Lu8gaJwwHhmCNoJMZx6NJVAndKMPuU/ovnk08p32zKONPXSnebTxLjpgGiNfB0xjfGkBppFGswdM
+GynlTmBADPMJrT2QvrPC9JQjrDIDPotRTKPYYeA03BtTGkvQDqaMYqKh/L0PpmfyG5ZjSlwgM1PY
+JsHcEjk7RQ/UFzBsuY1MhP2Uqe86D40wjbORI0MA2pIHRwUECeOQWVQcrDYKHGNTmLGYRItrVlPN
+wPsQNCp/pwWNBeaRIdCZMp5BPDVOInqk4EnQ6BOzbJNAc5yBy3evITQ6xg6Cxi70kSFoI8R3TvLQ
+kNkYbXZC30yq+9Gjcb9hz0m2Oas7naSXnkcXLIkSnDjpC+hTAp2sJD1iErWJ3qA69M2jUexONxr7
+xTuYUG/Ut3Y56DM5yZS8YDYULFcE5JfawzywBkKQcHnPipEx3F9+NabVHQSNo/cdBDc15ZkgaNvq
+erR5NEaSndA3n3vfPBrX1/bMo60GuNM82kiBjwamMRnbAYMGzZ5B9IFpZD/uAdPGC70TGIyYjWMY
+ooaEUZkEnaSuAGL2iEYM1pXQukj7M9W+32gUuzOaxi7aDqab+vNMRmNReuq62WE4FkcxIcfEhiXM
+WzmX3MCxZnU/BIf6jUaq05EhKCL6hF0HLLeAdys9AwFLYYGLon+FldoohOqtduA5vB6t9hShjcza
+KUIjlfPIKIRIsbfkHPaGKw0tYynCYX2bRIwVFDVYcLsx/nkiCo200B0KR4oh6MEG7babwZhiSuvA
+sHXwDSpqqTFa0cHsl1tPRKGRYrpD4abvfCanAEo9w4YBOLoaW9EyMZCaNFjzQiVcJ4B2DVby9nLt
+Gyg0StVZRCNVdYfCkVwjZxhngwGAkrMumQesm3vMsMG9YZgneutSf0n3tl9olKpDoZHvemQUKA3Y
+M/dIpoMHFAwu0oK1T0zQjFPMyZner75v6MKhKBwYI47kF7JAfu1Ar4nBg0LtsP3kKIYdmB2CJABG
+FohzD1nEoSgcmGEfyS8EkMywsCGJMHW5yggMArNGGwK6gZ39pLTaH3A8URcObMaIG5nlM3lHDiZI
+piiwXAxVFxR4BtjoxPog6k2PvwhfvqYuNFJMd34B16BUl/LcBWek1uCqjUg0upvIncEU8ViLJYZG
+y9DONco8qAuHxogDZxpH8guUITWyYJ1jKR35QkLxYHExCbbUJceOmcae8IPe8VAUGmmsO104kl8A
+1ybVYIk0KUTECDhGVHK4xyNiIJwTljBvFBE3/EKjVF2kbOTC7lA4Ur4Akps04OAQdOYx2MPCPHa8
+QaXCyEtjlSXoxB60iINRaKPK7lA4kkUYUQxouhZZAmpJ3IcAwk2GRSiL7SOwUJ3ID2bQh6Jw4Bz8
+SBYRueVIj+piOdr0UiGNxoo0NsmMrFs9uPzl4azpUBQObEoeKVJKUAcdeBDoJiA+1lE3CRn82pww
+8jbewnt+VV1opJ/uLOJIkVIzRAHs7YI+VW+bSrjEJBg0GQRWYAWuM6G4/uihfOHQGHHgFO9IulCS
+tQz9JSy3BdQRHvsLARvN6NG72rt2iB9fNVI20lmPrAvC2HopG8gfum5xRAQKdBSwlA4WHbImFN5+
+f5B3I1I2StVFykZO7A6FI0XKiIGMA4uVwCXW/gKYcFjlV7ikQXOHQU4S3j9kEQej0EaZ3aFwpEgJ
+zhsXCrer4FojoFA8EiasaxCKRgCWyYKJaX+i+URdOJA0d6RIib6jAotBY/uwNqCxJYAYETHm9RmT
+bY71gXqvSI83+EQUDmzDH8k7Ysck44ISoKBMuWw44bKSQhhYyVowhAt3fblFHfA/EYVGGurOIp4l
+Um65pX1C6bsPV1Oa3z8ucffm5ZonrqjcMk5HL/Db4GI1u3V56Z2XhU5W2xtQ61Whtrv/FCeuz6/v
+VM048Opa1fX5E44drC5vQF29nKjh4Gy2+Pt0deu49ltaIThuiIS0V3dH7BDY4tVdCPvD/wMAAP//
+AwBQSwMEFAAGAAgAAAAhAFnLpJrbAwAADVEAABwAAABkcnMvZGlhZ3JhbXMvcXVpY2tTdHlsZTEu
+eG1s7JzdTtswFMfvJ+0dIt+PtLBNqCJFfKgSEkKIsQdwHSe1cOxgu1DefraTpkxioqGEOeHctGma
+49T+2ecc/+306HhV8OiBKs2kSNB4b4QiKohMmcgT9Pt29u0QRdpgkWIuBU3QE9XoePr1y1GaFxNt
+njg9p1lkCxF6Yk8laGFMOYljTRa0wHpPllTYbzOpCmzsR5XHqcKPtviCx/uj0c84ZThXuEB1IfgN
+RRSYCRQtBbtf0os0QUslJgUjSmqZmT0ii1hmGSO0fsPKuFv/iA/j+yUjd74asWZFyekYTX3VDDOc
+Rg+YJwjF1amUavL3GYLNpTbVt/Y4Mk+lbaKqIBSVitkWHY1HI1dC7BrsuYEmVNCDdHqE7emCKmwN
+tEmQVGYhbYuUC0ZmSgrjrPGEs3xhblgeKWbJmIWi9NqgKGXKfmpu0BTa4Lmc80jY8hMkZEpHdfWa
+67q7eXmQ1g1nVteqPvRN7asjbmy/YekqQfv2N+GJJiqfn3EV2frYTmjraF/n7tU1nq2/M3AXZozz
+xtbhet22NnGX0iyjxDT2rj1et2+M/P0tksa+YEKqugzb4amrgO803IzrH55V19c9oG4A3xv8seVT
+daD1p5oWF1eW17o7Aq+qr4TL64EKIPaRI8ysdhxh2LpUQPaRyHZ2ii6EgUvsSwhztFxw97lI99kO
+JBxVpvTGhMPROgBaPUkPHa3vQKsntLL8osivOSYQvZq51Hsm9M7xNTPe58f/ml353A+Y1FPqMJjM
+YZA4YaOzhLz1INFsfquw0PvnIebc20kBn002yvJfQK3TYeTGp1e331HsmwO1StXtzPl1QW3tH8dB
++sftpPGX/eN2vrVrWb11wCKYc7k0MC3qYFrUGgbW2rh+BOrPZrlou3HVpOPOadVqTjVb6m65ydEK
+McuDxcHNSvtmKdfRAmW1Lzq4owXKap9ogbLaF1olVmeLgFUKiF8vxa/n1CCO9XGsQTzrIzWIa/2j
+Fqa6tEtc224WHJy6tAla4/OhBa0BIBlaRBoAkqGFm54iyfITQkDc6yL0t1bFiRQzwNHVgxitcfh9
+QDA6OnoupjUOo07cpvxAgeyyorqdbXA57xx8VTC+SkvOUggenW0Rae2tPJCQHdYuk/SeOizP5BS8
+VjBey08+ZtJuzHm8gqe3Qkm01nkvgPEPk4cTU3zCBVQCo+KdmFN/YDPbe29ma511eRZD0997mm15
+FkMT3vvMYmiKe09Z2Oc5FmWA4WK7BYyXnwnoKYr07hRghDLtMApgBDQzD9NJfULVStGH29XA4sV2
+seb/rnhs/jTA/ovh9A8AAAD//wMAUEsDBBQABgAIAAAAIQAqFS8VIAEAAF4CAAAOAAAAZHJzL2Uy
+b0RvYy54bWykks9KAzEQxu+C7xByt9murejSbC9F6MmLPsCYTHYD+WeSuvr2zrZF6knQS/hmBn75
+5ks22w/v2DvmYmOQfLloOMOgorZhkPzl+fHmnrNSIWhwMaDkn1j4tr++2kypwzaO0WnMjCChdFOS
+fKw1dUIUNaKHsogJAw1NzB4qlXkQOsNEdO9E2zR3YopZpxwVlkLd3WnI+yPfGFT1yZiClTnJ2/Wq
+IX9Vcjqz5A/rds3Z61yKfgPdkCGNVp3dwB/MeLCB7v5G7aACO2T7B5S2QH480fTgu4xur8vZGTX+
+ATxDaP/fs47GWIW7qA4eQz0FTlag0muX0aZCOXaa3OS9Xs7axaNuZ/1Wjvp21uqkV3PQ4kc8lzXp
+y2/RfwEAAP//AwBQSwMEFAAGAAgAAAAh

@@ -8,23 +8,23 @@ format:
 editor: visual
 ---
 
-# 1       Why am I being asked to do this?
+# 1 Why am I being asked to do this?
 
 The University (DTS, IMPS, UREC) are concerned about the security of apps and online platforms, especially where they may store sensitive data. In PCLS, staff would like to use new apps and online platforms. It would be a *bona fide* nightmare to try and get each of these approved by DAS (the vetting committee for new software); often this takes years. A better solution is to ensure that personal information is stored on REDCap and then an anonymous ID is passed out to the online platform (eg *Gorilla*), the data is collected in the online platform and then information is passed back to REDCap and/or the program that pays/credits the participant. Anyway, that is why we are introducing this system: the alternative could be much worse. This guide is designed to help you set up online experiments in this way.
 
 We start with the following paradigm as an example. At the end, we will describe variations on this theme (eg using a different platform other than Gorilla).
 
-![Flow diagram showing participant moving from one platform to another. We will use this as the basic paradigm and then describe variations later.](images/Figure_1_1.png){#fig-1.1}
+![Flow diagram showing participant moving from one platform to another. We will use this as the basic paradigm and then describe variations later.](images/1_1.png){#fig-1.1}
 
-![Flow diagram to show how URL parameters take information from one platform to the next.](images/Figure_1_2.png){#fig-1.2}
+![Flow diagram to show how URL parameters take information from one platform to the next.](images/1_2.png){#fig-1.2}
 
-# 2       Things you need before you build the pipeline
+# 2 Things you need before you build the pipeline
 
-You will need a SONA account. Details are [here](#further_details_sona).
+You will need a SONA account. Details are in [10.1   Background on SONA].
 
-You will need a REDCap account. Details are [here](#further_details_redcap).
+You will need a REDCap account. Details are in [10.3   Background on REDCap].
 
-You will need a Gorilla account (assuming you are setting up the pipeline above, which will run an experiment on Gorilla). Details are [here](#set_up_gorilla_account_and_expt).
+You will need a Gorilla account (assuming you are setting up the pipeline above, which will run an experiment on Gorilla). Details are in [10.6   Setting up a Gorilla account and experiment].
 
 Some of the above steps take a while, so leave some time. For example, requesting a REDCap account can take several days to get approval. Also, ethical approval is needed before you can collect data via SONA and REDCap.
 
@@ -32,39 +32,39 @@ Once you have these things in place, we suggest running through the below proces
 
 N.B. Please note, this guidance document contains a number of example URLs/weblinks. These are all provided as examples, and should not be used within your own project as they will not work.
 
-# 3       Making a new REDCap project and adding an Information Sheet and Consent form
+# 3 Making a new REDCap project and adding an Information Sheet and Consent form
 
 This is the main rationale for the pipeline, i.e. to ensure that personal information including the Consent Forms are kept securely on REDCap.
 
-Details of setting up a new REDCap project are [here.](#set_up_redcap_project)
+Details of setting up a new REDCap project are in [10.4   Requesting and setting up a REDCap project]
 
 The key thing that you will need in your REDCap consent form, is a text field to store the participants' SONA ID. This field must have the variable name 'ppt_id' for the instructions in this guidance to work. If you are downloading and using the Information Sheet and Consent form templates provided by us, this field is already included. If you are planning to build your own consent form on REDCap, you will need to add this field.
 
-Full details about adding an Information Sheet and Consent form to your project (including a template you can download) are [here.](#adding_pis_consent)
+Full details about adding an Information Sheet and Consent form to your project (including a template you can download) are in [10.5.1   Editing the Information Sheet and Consent Form]
 
 If you would like to add more instruments, e.g. questionnaires here in REDCap, that is fine but is not part of this document (for details see the [University's webpages about REDCap](https://www.reading.ac.uk/research-services/research-data-management/managing-your-data/uor-redcap), where you can find guidance on using REDCap, good practice guides and links to REDCap's own training resources).
 
-# 4       Passing participant ID from SONA to REDCap
+# 4 Passing participant ID from SONA to REDCap
 
 This is done by finding the URL for your REDCap consent form and pasting it into SONA so that REDCap can receive a unique participant ID from SONA.
 
 Go to your REDCap project and select 'Survey distribution tools' from the menu on the left - you will find your survey URL there listed as 'Public Survey URL'. This URL takes participants to the first survey instrument in your project -- in this case the information sheet and consent form.
 
-![Finding the public survey URL for your consent form in REDCap](images/Figure_4_1.png){#fig-4.1}
+![Finding the public survey URL for your consent form in REDCap](images/4_1.png){#fig-4.1}
 
-Assuming that you have a SONA account (if not, see [Section](#_Things_you_need) above), log in and choose 'Add a new study':
+Assuming that you have a SONA account (if not, see [2 Things you need before you build the pipeline] above), log in and choose 'Add a new study':
 
-![Adding a new SONA study](images/Figure_4_2.png){#fig-4.2}
+![Adding a new SONA study](images/4_2.png){#fig-4.2}
 
 Follow the instructions on this page (choosing the credited option of 'external online study' as the type of study):
 
-![Setting up your study on SONA](images/Figure_4_3.png){#fig-4.3}
+![Setting up your study on SONA](images/4_3.png){#fig-4.3}
 
 On this page you will need to enter the basic information for your study. All of the information in the 'basic study information' section is required. Scroll down to the 'Advanced Settings' section until you find  'Study URL'. This is where you will need to enter the URL that we found in REDCap (Figure 3**Error! Reference source not found.**).
 
 Do not press the 'Add this Study' button until you have completed any necessary advanced settings, which includes the study URL to link with REDCap.
 
-![where to paste REDCap URL in SONA](images/Figure_4_4.png){#fig-4.4}
+![where to paste REDCap URL in SONA](images/4_4.png){#fig-4.4}
 
 Paste the REDCap URL (see Figure 3 to find this) into this box in SONA . Then add the following onto the end of the URL:
 
@@ -72,27 +72,29 @@ Paste the REDCap URL (see Figure 3 to find this) into this box in SONA . Then ad
 
 ... so that it should look something like the example below:
 
-https://uor-redcap.reading.ac.uk/surveys/?s=MT8EN3W4M39WPCMF&ppt_id=%SURVEY_CODE%
+::: {style="color: blue"}
+https://uor-redcap.reading.ac.uk/surveys/?s=MT8EN3W4M39WPCMF&[ppt_id=%SURVEY_CODE%]{style="background-color:yellow"}
+:::
 
 (Remember not to directly use our example links/URLs as they will not work, you need to use your own project's URLs)
 
 This will then ensure that when SONA passes the participant to the REDCap consent form, their SONA ID (their 'survey code') will then be carried over to, and saved in, a field called 'ppt_id' on your REDCap consent form.
 
-If you are interested in the details of what the URL means, or how to recognise URLs from different platforms, see [here](#recognising_urls).
+If you are interested in the details of what the URL means, or how to recognise URLs from different platforms, see [10.7   Recognising URLS from SONA, Gorilla and REDCap].
 
-# 5       Finding the right URL from Gorilla to allow REDCap to pass it a participant ID
+# 5 Finding the right URL from Gorilla to allow REDCap to pass it a participant ID
 
-When you [set up a study in Gorilla,](#set_up_gorilla_account_and_expt) it allows you to set up a recruitment policy which tells Gorilla where participants are coming from. Gorilla will then help correctly configure its study URL accordingly.  
+When you [10.6   Setting up a Gorilla account and experiment] it allows you to set up a recruitment policy which tells Gorilla where participants are coming from. Gorilla will then help correctly configure its study URL accordingly.  
 
-Within Gorilla, go to your projects and find the experiment you are working on. Along the top you should see a series of tabs including 'design', 'recruitment', 'participants' and 'data'. You will need to select 'recruitment' and then 'change recruitment policy', and click on 'Recruitment Service' and select 'Sona Systems'.  
+Within Gorilla, go to your projects and find the experiment you are working on. Along the top you should see a series of tabs including 'design', 'recruitment', 'participants' and 'data'. You will need to select 'recruitment' and then 'change recruitment policy', and click on 'Recruitment Service' and select 'Sona Systems'.
 
-Figure 7 - Setting the recruitment policy in gorilla
+![Setting the recruitment policy in gorilla](images/5_1.png){#fig-5.1}
 
-Figure 8 - Changing recruitment policy in gorilla to SONA
+![Changing recruitment policy in gorilla to SONA](images/5_2.png){#fig-5.2}
 
 If your participants originally signed up through SONA, you [should]{.underline} select SONA (even if they have been passed to REDCap before arriving at Gorilla). This is because you ultimately want participants to be awarded SONA credits on completion of the experiment on Gorilla, and gorilla needs to know that they were recruited through SONA to do this.
 
-Figure 9 - Finding correct URL for your gorilla experiment
+![Finding correct URL for your gorilla experiment](images/5_3.png){#fig-5.3}
 
 Now that Gorilla has generated a link that will take a participant to the Gorilla study, we can use this (or a slightly modified version of it) in REDCap to direct the participant to Gorilla after they have completed the last task in REDCap (see [next section](#_Passing_participant_ID)).
 
@@ -110,7 +112,7 @@ You have to do this manually, e.g. in Word or Notepad, to change %SURVEY_CODE% t
 
 If you want to know more about why you do this and what the links are doing, [read here.](#_Recognising_URLS_from)
 
-# 6       Passing participant ID from REDCap to Gorilla
+# 6 Passing participant ID from REDCap to Gorilla
 
 REDCap needs to know where to send the participant ID, I.e. a URL for Gorilla.
 
@@ -118,21 +120,21 @@ In REDCap in 'Designer' find the *last* survey in your REDCap project that parti
 
 In the survey settings you will need to find the 'Redirect to a URL' setting under 'Survey Termination Options'. This is will you will enter the URL that you have just edited.
 
-Figure 10 - Finding the REDCap survey redirection settings
+![Finding the REDCap survey redirection settings](images/6_1.png){#fig-6.1}
 
 Paste the edited Gorilla URL (the one that looks like our example: https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=\[ppt_id\]*)* into the 'redirect to a URL' setting under 'Survey Termination Options'. It is quite a long way down in the survey settings page, so keep scrolling down.
 
-Figure 11 - Pasting the gorilla experiment URL into REDCap
+![Pasting the gorilla experiment URL into REDCap](images/6_2.png){#fig-6.2}
 
 Remember, the link you paste in here is one that you have edited manually to have '\[ppt_id\]' at the end:
 
-Figure 12 - Ensuring gorilla URL has edited '\[ppt_id\]' when pasting into REDCap
+![Ensuring gorilla URL has edited '\[ppt_id\]' when pasting into REDCap](images/6_3.png){#fig-6.3}
 
 This will now automatically redirect participants to your gorilla experiment upon completion of the REDCap consent form, carrying over their SONA ID.
 
 Scroll down to the bottom of the 'Survey Settings' page and select 'Save Changes'.
 
-# 7       Passing participant from Gorilla back to SONA for automatic crediting
+# 7 Passing participant from Gorilla back to SONA for automatic crediting
 
 This involves passing a participant from Gorilla, upon completion of their survey/task, back to SONA to be credited for their participation.
 
@@ -140,7 +142,7 @@ SONA provides a completion link that you can add to the end of your gorilla surv
 
 You will find the completion link on your study information page on SONA under 'REDCap Redirect to a URL'
 
-Figure 13 - Finding SONA redirect link for automatic crediting
+![Finding SONA redirect link for automatic crediting](images/7_1.png){#fig-7.1}
 
 The URL will look something like this example:
 
@@ -154,19 +156,19 @@ https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&
 
 You then need to copy this link and add it as the onward URL at the end of your gorilla experiment (in your 'finish node').
 
-Figure 14 - Finding the 'finish' node in gorilla
+![Finding the 'finish' node in gorilla](images/7_2.png){#fig-7.2}
 
 Click 'edit' and then on the 'finish node' and paste the SONA completion URL (with the survey parameter removed as explained above) into 'onward URL':
 
-Figure 15 - Pasting SONA completion URL in gorilla 'finish' node
+![Pasting SONA completion URL in gorilla 'finish' node](images/7_3.png){#fig-7.3}
 
 This will then send participants back to SONA to be credited upon completion of their task. Participants will be taken to the SONA log in page and will receive the message '**System Message:** Web study credit successfully granted.'
 
-Figure 16 - Participant view of successful automatic SONA crediting upon study completion
+![Participant view of successful automatic SONA crediting upon study completion](images/7_4.png){#fig-7.4}
 
 Now you should be ready to test the whole pipeline (SONA \> REDCap \> Gorilla \> REDCap \> SONA).
 
-# 8        Testing the pipeline without using up credits/tokens 
+# 8  Testing the pipeline without using up credits/tokens 
 
 If you want to test your that your pipeline works without using up credits and tokens, you can do this using features within both SONA and Gorilla.  
 
@@ -176,17 +178,17 @@ Next, you will need to change your 'finish node' in Gorilla to a 'reject node'. 
 
 So, the instructions below may seem to go over old ground, but they show how to modify your pipeline to 'practice' it without using up tokens.
 
-See *'Figure 14  to find the finish node in your gorilla experiment'* for where to find the finish node. Click 'edit' and then click on the 'finish node' and then click 'remove'.
+See @fig-7.2 for where to find the finish node. Click 'edit' and then click on the 'finish node' and then click 'remove'.
 
-Figure 17 - Removing the finish node in gorilla
+![Removing the finish node in gorilla](images/8_1.png){#fig-8.1}
 
-Then select 'add new node' and select 'reject'. Move the reject node to the end of the experiment and link it to the previous node.  
+Then select 'add new node' and select 'reject'. Move the reject node to the end of the experiment and link it to the previous node.
 
-Figure 18 - Adding a 'reject' node in gorilla
+![Adding a 'reject' node in gorilla](images/8_2.png){#fig-8.2}
 
 Once again, you will need to add the SONA completion link (see [Section 7](#_Passing_participant_from) for where to find this) into the 'onward URL' section of the reject node, in the same way you did with the finish node previously.  
 
-Figure 19 - Adding the SONA completion link as the onward URL in gorilla reject node for testing
+![Adding the SONA completion link as the onward URL in gorilla reject node for testing](images/8_3.png){#fig-8.3}
 
 Don't forget when you have finished testing, you will need to change the reject node back to the finish node, adding the onward URL, before making your study live to participants. 
 
@@ -194,15 +196,15 @@ Don't forget when you have finished testing, you will need to change the reject 
 
 Using a test participant in SONA 
 
-You can now test the whole process from SONA using a test participant code. To do this you need to go to your study on SONA and select 'sample link with embedded ID code'. You can find SONA's own guidance on how to do this [here](https://www.sona-systems.com/help/integration_test.aspx), or see the instructions below. 
+You can now test the whole process from SONA using a test participant code. To do this you need to go to your study on SONA and select 'sample link with embedded ID code'. You can find SONA's own guidance on how to do this [here](https://www.sona-systems.com/help/integration_test.aspx), or see the instructions below.
 
-Figure 20 - Finding SONA's sample link for testing pipeline with dummy participant ID
+![Finding SONA's sample link for testing pipeline with dummy participant ID](images/8_4.png){#fig-8.4}
 
 This will then take you through each stage/platform of your study using a test participant code.
 
 You can see below the test participant code '57004' showing correctly in the URL for the REDCap consent form. This code would usually be the number that SONA assigns the participant when they sign up for the study. If your SONA study is not set up to be anonymous, this ID is the participant's unique SONA identification number. If your SONA study is set up to be anonymous, this ID will be a random ID generated by SONA to track the participant. In this case, it is an example participant number that SONA has generated for the purpose of testing.
 
-![](file:////Users/nt906822/Library/Group%2520Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image036.png)Figure 21 - Testing that participant's SONA ID has passed to REDCap consent form
+![Testing that participant's SONA ID has passed to REDCap consent form](images/8_5.png){#fig-8.5}
 
 You can then do a test completion of your consent form, and can check that upon completion it correctly redirects you to gorilla carrying over the test participant code within the URL. 
 
@@ -210,7 +212,17 @@ You can see below that once again the test participant code 57004 has correctly 
 
 One thing to note is that each time you test this pipeline, you will be passing Gorilla the same participant ID (e.g. 57004). Gorilla will not run the same experiment again for the same ppt_id. So, if you want to test it again including the Gorilla expt, you must delete the data stored for your dummy participant. Instructions on doing that are [here.](#_Deleting_test_participant) Or you could just not worry about it if you are not running the test again, as when you run the real expt, the ppt_id will be new and so it should run okay. 
 
-![](file:////Users/nt906822/Library/Group%2520Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image030.png)Figure 22 - Testing gorilla experiment with test participant ID
+Figure 17 - Removing the finish node in gorilla
+
+Figure 18 - Adding a 'reject' node in gorilla
+
+Figure 19 - Adding the SONA completion link as the onward URL in gorilla reject node for testing
+
+Figure 20 - Finding SONA's sample link for testing pipeline with dummy participant ID
+
+Figure 21 - Testing that participant's SONA ID has passed to REDCap consent form
+
+Figure 22 - Testing gorilla experiment with test participant ID
 
 You can then do a test completion of the survey/task on Gorilla, and can check that upon completion it correctly redirects you back to SONA. If automatic crediting is set up correctly, you will see the message: "System Message: No credit given, because you are not a participant, and therefore cannot sign up for this study. Study Name: Test Study" (or whatever you called your study) . 
 
@@ -232,9 +244,9 @@ Figure 26 - Checking test participant ID has saved in gorilla
 
 You are now ready for your experiment to go live. **N.B. Make sure you change your gorilla 'reject' node back to a 'finish' node once you have completed testing, before you begin to collect real participant data. If you do not, any participant data you collect will be deleted by gorilla.**
 
-# 9       Alternative platforms (other than SONA and Gorilla)
+# 9 Alternative platforms (other than SONA and Gorilla)
 
-## 9.1       Prolific academic
+## 9.1 Prolific academic
 
 **Please note**, this tutorial assumes you will be using the Prolific consent form (note, this is not officially from Prolific and is instead created by Brendan Williams), available at [Consent_2023-05-16_1509.zip](https://livereadingac.sharepoint.com/:u:/s/grp-spcls-pclsstaffinformation/ERLNt8vb7w5IqcvIfzlXVmsBKXP2y172hEGpYWWRh-0lmg?e=3wMHqo)[\[AH1\]](#_msocom_1) [\[AH2\]](#_msocom_2) [\[BW3\]](#_msocom_3) , and that this form is the first survey available in your REDCap project. If you wish to edit this consent form then please feel free to do so, but do not edit the following hidden fields:
 
@@ -314,9 +326,9 @@ You can find full guidance on SONA [on blackboard](https://www.bb.reading.ac.uk/
 
 There are two types of SONA accounts: participant and researcher. In order to set up and advertise a study you must have a researcher SONA account. To get a SONA researcher account:
 
--        Undergraduate and MSc students must first have signed up for a participant SONA account and have earned the required amount of credits for their course. See [blackboard](https://www.bb.reading.ac.uk/ultra/organizations/_114771_1/cl/outline) for full information on this. Once they have done this they can email [psychpaneladmin\@reading.ac.uk](mailto:psychpaneladmin@reading.ac.uk) to request their account be changed to a researcher account.
+-  Undergraduate and MSc students must first have signed up for a participant SONA account and have earned the required amount of credits for their course. See [blackboard](https://www.bb.reading.ac.uk/ultra/organizations/_114771_1/cl/outline) for full information on this. Once they have done this they can email [psychpaneladmin\@reading.ac.uk](mailto:psychpaneladmin@reading.ac.uk) to request their account be changed to a researcher account.
 
--        PhD students and staff can just email [psychpaneladmin\@reading.ac.uk](mailto:psychpaneladmin@reading.ac.uk) and request a researcher account.
+-  PhD students and staff can just email [psychpaneladmin\@reading.ac.uk](mailto:psychpaneladmin@reading.ac.uk) and request a researcher account.
 
 Please allow a 2 working day response time when requesting a researcher SONA account.
 
@@ -324,9 +336,9 @@ You can find full guidance on SONA [on blackboard](https://www.bb.reading.ac.uk/
 
 Psych panel admin will email you to confirm that your researcher account has been set up.
 
--        For undergraduate and MSc students who had an existing SONA participant account that has been upgraded to a researcher account, you can just log in using your existing SONA account username and password.
+-  For undergraduate and MSc students who had an existing SONA participant account that has been upgraded to a researcher account, you can just log in using your existing SONA account username and password.
 
--        For staff and PhD students who do not already have a SONA account, you will receive an email from SONA containing your login details.
+-  For staff and PhD students who do not already have a SONA account, you will receive an email from SONA containing your login details.
 
 Once you have a researcher account and log in details you can log into SONA from <http://rdg-psychology.sona-systems.com>
 
@@ -396,9 +408,9 @@ Description automatically generated\](file:////Users/nt906822/Library/Group%2520
 
 Description automatically generated"}All of the fields in this instrument are editable.
 
-•       You can change them by selecting the 'Edit' button
+• You can change them by selecting the 'Edit' button
 
-•       !\[Graphical user interface, text, application, email
+• !\[Graphical user interface, text, application, email
 
 Description automatically generated\](file:////Users/nt906822/Library/Group%2520Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image072.png){alt="Graphical user interface, text, application, email
 
@@ -408,7 +420,7 @@ Description automatically generated\](file:////Users/nt906822/Library/Group%2520
 
 Description automatically generated"}You can move them by selecting the 'Move' button
 
-•       You can delete them by selecting the 'Delete' button
+• You can delete them by selecting the 'Delete' button
 
 You should edit the information sheet and consent form with the correct contact details and information (prompts are included), or the specific wording you have on your ethically approved information sheet/consent form.
 
@@ -508,7 +520,7 @@ Figure 50 - Entering SONA completion link into REDCap survey termination setting
 
 You can also find the latest instructions from SONA on integration with REDCap, along with detailed screenshots, go to <https://www.sona-systems.com/help/redcap.aspx>. The product may change more often than we update our documentation, so the help page will contain the very latest information.
 
-# 11    Table of Figures
+# 11 Table of Figures
 
 @fig-1.1 . Flow diagram showing participant moving from one platform to another. We will use this as the basic paradigm and then describe variations later.
 
@@ -520,7 +532,27 @@ You can also find the latest instructions from SONA on integration with REDCap, 
 
 @fig-4.3 . Setting up your study on SONA
 
-@fig-4.4 . where to paste REDCap URL in SONA
+@fig-4.4 . Where to paste REDCap URL in SONA
+
+@fig-5.1 . Setting the recruitment policy in gorilla
+
+@fig-5.2 . Changing recruitment policy in gorilla to SONA
+
+@fig-5.3 . Finding correct URL for your gorilla experiment
+
+@fig-6.1 . Finding the REDCap survey redirection settings
+
+@fig-6.2 . Pasting the gorilla experiment URL into REDCap
+
+@fig-6.3 . Ensuring gorilla URL has edited '\[ppt_id\]' when pasting into REDCap
+
+@fig-7.1 . Finding SONA redirect link for automatic crediting
+
+@fig-7.2 . Finding the 'finish' node in gorilla
+
+@fig-7.3 . Pasting SONA completion URL in gorilla 'finish' node
+
+@fig-7.4 . Participant view of successful automatic SONA crediting upon study completion
 
 [Figure 1 - Flow diagram showing participant moving from one platform to another. We will use this as the basic paradigm and then describe variations later. 2](#_Toc135308282)
 
@@ -621,9 +653,3 @@ You can also find the latest instructions from SONA on integration with REDCap, 
 [Figure 49 - Finding REDCap survey redirection setting to enter SONA completion link. 32](#_Toc135308330)
 
 [Figure 50 - Entering SONA completion link into REDCap survey termination settings to send participant back to SONA for automatic crediting  32](#_Toc135308331)
-
- [\[AH1\]](#_msoanchor_1)Do you have a URL for this?
-
- [\[AH2\]](#_msoanchor_2)Or should we have this as an appendix if it's a word file template?
-
- [\[BW3\]](#_msoanchor_3)Added, it's a zip file so may be a little difficult in a word doc; Online should be easy to link this ☺️
