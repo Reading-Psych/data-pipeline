@@ -24,7 +24,7 @@ You will need a SONA account. Details are in [10.1 Background on SONA].
 
 You will need a REDCap account. Details are in [10.3 Background on REDCap].
 
-You will need a Gorilla account (assuming you are setting up the pipeline above, which will run an experiment on Gorilla). Details are in [10.6   Setting up a Gorilla account and experiment].
+You will need a Gorilla account (assuming you are setting up the pipeline above, which will run an experiment on Gorilla). Details are in [10.6 Setting up a Gorilla account and experiment].
 
 Some of the above steps take a while, so leave some time. For example, requesting a REDCap account can take several days to get approval. Also, ethical approval is needed before you can collect data via SONA and REDCap.
 
@@ -84,11 +84,11 @@ https://uor-redcap.reading.ac.uk/surveys/?s=MT8EN3W4M39WPCMF&[ppt_id=%SURVEY_COD
 
 This will then ensure that when SONA passes the participant to the REDCap consent form, their SONA ID (their 'survey code') will then be carried over to, and saved in, a field called 'ppt_id' on your REDCap consent form.
 
-If you are interested in the details of what the URL means, or how to recognise URLs from different platforms, see [10.7   Recognising URLS from SONA, Gorilla and REDCap].
+If you are interested in the details of what the URL means, or how to recognise URLs from different platforms, see [10.7 Recognising URLS from SONA, Gorilla and REDCap].
 
 # 5 Finding the right URL from Gorilla to allow REDCap to pass it a participant ID
 
-When you [10.6   Setting up a Gorilla account and experiment] it allows you to set up a recruitment policy which tells Gorilla where participants are coming from. Gorilla will then help correctly configure its study URL accordingly.  
+When you [10.6 Setting up a Gorilla account and experiment] it allows you to set up a recruitment policy which tells Gorilla where participants are coming from. Gorilla will then help correctly configure its study URL accordingly.  
 
 Within Gorilla, go to your projects and find the experiment you are working on. Along the top you should see a series of tabs including 'design', 'recruitment', 'participants' and 'data'. You will need to select 'recruitment' and then 'change recruitment policy', and click on 'Recruitment Service' and select 'Sona Systems'.
 
@@ -96,25 +96,25 @@ Within Gorilla, go to your projects and find the experiment you are working on. 
 
 ![Changing recruitment policy in gorilla to SONA](images/5_2.png){#fig-5.2}
 
-If your participants originally signed up through SONA, you [should]{.underline} select SONA (even if they have been passed to REDCap before arriving at Gorilla). This is because you ultimately want participants to be awarded SONA credits on completion of the experiment on Gorilla, and gorilla needs to know that they were recruited through SONA to do this.
+If your participants originally signed up through SONA, you [[**should**]{.underline}]{style="color: orange"} select SONA (even if they have been passed to REDCap before arriving at Gorilla). This is because you ultimately want participants to be awarded SONA credits on completion of the experiment on Gorilla, and gorilla needs to know that they were recruited through SONA to do this.
 
 ![Finding correct URL for your gorilla experiment](images/5_3.png){#fig-5.3}
 
-Now that Gorilla has generated a link that will take a participant to the Gorilla study, we can use this (or a slightly modified version of it) in REDCap to direct the participant to Gorilla after they have completed the last task in REDCap (see [next section](#_Passing_participant_ID)).
+Now that Gorilla has generated a link that will take a participant to the Gorilla study, we can use this (or a slightly modified version of it) in REDCap to direct the participant to Gorilla after they have completed the last task in REDCap (see [6 Passing participant ID from REDCap to Gorilla]).
 
-(NB do not use the generic URL that displays when you are viewing your survey/task (the one that will look something like this: https://app.gorilla.sc/task/6878668). This will not work.)  
+(NB do not use the generic URL that displays when you are viewing your survey/task (the one that will look something like this: [https://app.gorilla.sc/task/6878668]{style="color:orange"}). This will not work.)
 
-Instead, you want to use the link circled in Figure 9 but changed slightly (manually) before you paste it into REDCap: 
+Instead, you want to use the link circled in Figure 9 but changed slightly (manually) before you paste it into REDCap:
 
-[https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=%SURVEY_CODE%](https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=%25SURVEY_CODE%25)  ... becomes:
+https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=[%SURVEY_CODE%]{style="background-color:yellow"}  ... becomes:
 
-[https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=\[ppt_id](https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=%5bppt_id)[\]]{.underline}
+https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=[\[ppt_id[\]]{.underline}]{style="background-color:yellow"}
 
-(Remember not to directly use our example links/URLs as they will not work, you need to use your own project's URLs)
+[(Remember not to directly use our example links/URLs as they will not work, you need to use your own project's URLs)]{style="color:red"}
 
-You have to do this manually, e.g. in Word or Notepad, to change %SURVEY_CODE% to \[ppt_id\]. This is the link that we will need to paste into REDCap (see [next section](#_Passing_participant_ID)).
+You have to do this manually, e.g. in Word or Notepad, to change %SURVEY_CODE% to \[ppt_id\]. This is the link that we will need to paste into REDCap (see [6 Passing participant ID from REDCap to Gorilla]).
 
-If you want to know more about why you do this and what the links are doing, [read here.](#_Recognising_URLS_from)
+If you want to know more about why you do this and what the links are doing go to: [10.7 Recognising URLS from SONA, Gorilla and REDCap]
 
 # 6 Passing participant ID from REDCap to Gorilla
 
@@ -126,7 +126,7 @@ In the survey settings you will need to find the 'Redirect to a URL' setting und
 
 ![Finding the REDCap survey redirection settings](images/6_1.png){#fig-6.1}
 
-Paste the edited Gorilla URL (the one that looks like our example: https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00?external_id=\[ppt_id\]*)* into the 'redirect to a URL' setting under 'Survey Termination Options'. It is quite a long way down in the survey settings page, so keep scrolling down.
+Paste the edited Gorilla URL (the one that looks like our example: https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B00[?external_id=\[ppt_id\]]{style="background-color:yellow"}) into the 'redirect to a URL' setting under 'Survey Termination Options'. It is quite a long way down in the survey settings page, so keep scrolling down.
 
 ![Pasting the gorilla experiment URL into REDCap](images/6_2.png){#fig-6.2}
 
@@ -150,13 +150,17 @@ You will find the completion link on your study information page on SONA under '
 
 The URL will look something like this example:
 
-https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[sona_id:value\]
+::: {style="color: brown"}
+https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855[&survey_code=\[sona_id:value\]]{style="background-color:yellow"}
+:::
 
+::: {style="color:red"}
 (Remember not to directly use our example links/URLs as they will not work, you need to use your own project's URLs)
+:::
 
-However when using this URL with gorilla, you need to delete the URL parameter '&survey_code=\[sona_id:value\]' as gorilla has built in functionality for passing the survey code back to SONA and so this is not needed:
+However when using this URL with gorilla, you need to delete the URL parameter '[&survey_code=\[sona_id:value\]]{style="color:brown"}' as gorilla has built in functionality for passing the survey code back to SONA and so this is not needed:
 
-https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855
+[https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855]{style="color: brown"}
 
 You then need to copy this link and add it as the onward URL at the end of your gorilla experiment (in your 'finish node').
 
@@ -190,13 +194,15 @@ Then select 'add new node' and select 'reject'. Move the reject node to the end 
 
 ![Adding a 'reject' node in gorilla](images/8_2.png){#fig-8.2}
 
-Once again, you will need to add the SONA completion link (see [Section 7](#_Passing_participant_from) for where to find this) into the 'onward URL' section of the reject node, in the same way you did with the finish node previously.  
+Once again, you will need to add the SONA completion link (see [7 Passing participant from Gorilla back to SONA for automatic crediting] for where to find this) into the 'onward URL' section of the reject node, in the same way you did with the finish node previously.
 
 ![Adding the SONA completion link as the onward URL in gorilla reject node for testing](images/8_3.png){#fig-8.3}
 
 Don't forget when you have finished testing, you will need to change the reject node back to the finish node, adding the onward URL, before making your study live to participants. 
 
+::: {style="color:red"}
 **N.B. If you do not remove the reject node before your study goes live with real participants, then gorilla will [delete]{.underline} any data that comes through from those participants.**
+:::
 
 Using a test participant in SONA 
 
@@ -214,7 +220,7 @@ You can then do a test completion of your consent form, and can check that upon 
 
 You can see below that once again the test participant code 57004 has correctly carried over to the start page on the Gorilla survey. Your test participant code may be different from our example of 57004.
 
-One thing to note is that each time you test this pipeline, you will be passing Gorilla the same participant ID (e.g. 57004). Gorilla will not run the same experiment again for the same ppt_id. So, if you want to test it again including the Gorilla expt, you must delete the data stored for your dummy participant. Instructions on doing that are [here.](#_Deleting_test_participant) Or you could just not worry about it if you are not running the test again, as when you run the real expt, the ppt_id will be new and so it should run okay. 
+One thing to note is that each time you test this pipeline, you will be passing Gorilla the same participant ID (e.g. 57004). Gorilla will not run the same experiment again for the same ppt_id. So, if you want to test it again including the Gorilla expt, you must delete the data stored for your dummy participant. Instructions on doing that are at [10.8 Deleting test participant data from Gorilla] or you could just not worry about it if you are not running the test again, as when you run the real expt, the ppt_id will be new and so it should run okay.
 
 ![Testing gorilla experiment with test participant ID](images/8_6.png){#fig-8.6}
 
@@ -236,7 +242,7 @@ Next log into gorilla and go to the project containing your gorilla experiment a
 
 ![Checking test participant ID has saved in gorilla](images/8_10.png){#fig-8.10}
 
-You are now ready for your experiment to go live. **N.B. Make sure you change your gorilla 'reject' node back to a 'finish' node once you have completed testing, before you begin to collect real participant data. If you do not, any participant data you collect will be deleted by gorilla.**
+You are now ready for your experiment to go live. [**N.B. Make sure you change your gorilla 'reject' node back to a 'finish' node once you have completed testing, before you begin to collect real participant data. If you do not, any participant data you collect will be deleted by gorilla.**]{style="color:red"}
 
 # 9 Alternative platforms (other than SONA and Gorilla)
 
@@ -260,7 +266,7 @@ The most straightforward way to direct people to your REDCap form from Prolific 
 
 This suffix will be added to your REDCap public survey URL from to pipe relevant information from Prolific to REDCap. However, there are several fields that will need to be changed here. For instance we do not need the question mark at the beginning of the URL suffix. Secondly, because REDCap variable names are case sensitive and can only be lowercase, the use of query strings will not work here without edits.
 
-?PROLIFIC_PID={{%PROLIFIC_PID%}}&STUDY_ID={{%STUDY_ID%}}&SESSION_ID={{%SESSION_ID%}}
+[?]{style="color:red"}[PROLIFIC_PID]{style="background-color:yellow"}={{%PROLIFIC_PID%}}&[STUDY_ID]{style="background-color:yellow"}={{%STUDY_ID%}}&[SESSION_ID]{style="background-color"}={{%SESSION_ID%}}
 
 You can use the configure parameters option in Prolific to change PROLIFIC_PID, STUDY_ID, and SESSION_ID and have Prolific automatically update these fields in the auto-generated suffix.
 
@@ -270,15 +276,15 @@ Now, the suffix has been updated so it includes lower case versions of the query
 
 ![Example of how your URL will change if you change the parameters](images/9_1_6.png){#fig-9.1.6}
 
-?prolific_pid={{%PROLIFIC_PID%}}&study_id={{%STUDY_ID%}}&session_id={{%SESSION_ID%}}
+[?]{style="background-color:red"}prolific_pid={{%PROLIFIC_PID%}}&study_id={{%STUDY_ID%}}&session_id={{%SESSION_ID%}}
 
 You are now ready to combine the suffix from Prolific with your REDCap survey. Go to the survey distribution tools section of your REDCap project, and generate a Public Survey URL if one does not already exist.
 
 ![REDCAP -- Survey distribution tools is where you can find the URL for your survey](images/9_1_7.png){#fig-9.1.7}
 
-You can then need to combine the Public Survey URL from REDCap with the suffix that Prolific generated for you. To do this take the Public Survey URL, then add an ampersand (&) symbol, and finally, the suffix generated by Prolific. For example:
+You can then need to combine the Public Survey URL from REDCap with the suffix that Prolific generated for you. To do this take the [**Public Survey URL**]{style="color:teal"}, then add an ampersand ([**&**]{style="color: purple"}) symbol, and finally, the [**suffix generated by Prolific**]{style="color:brown"}. For example:
 
-https://uor-redcap.reading.ac.uk/surveys/?s=ABCD1234&prolific_pid={{%PROLIFIC_PID%}}&study_id={{%STUDY_ID%}}&session_id={{%SESSION_ID%}}
+[**https://uor-redcap.reading.ac.uk/surveys/?s=ABCD1234**]{style="color:teal"}[**&**]{style="color:purple"}[**prolific_pid={{%PROLIFIC_PID%}}&study_id={{%STUDY_ID%}}&session_id={{%SESSION_ID%}}**]{style="color:brown"}
 
 Please note, this is only an example, and will not work unless your REDCap survey ID is ABCD1234. Otherwise, please make sure you copy the Public Survey URL as it appears in REDCap.
 
@@ -290,7 +296,7 @@ If you successfully added these variables, then you should see a record with the
 
 ![REDCAP -- example of a data report](images/9_1_9.png){#fig-9.1.9}
 
-You can then use the variables prolific_pid study_id or session_id later on to pipe values to Gorilla or a similar additional service. Porting variables out of REDCap is explained elsewhere in this guide <https://reading-psych.github.io/data-pipeline/#_Toc124430670> (please note, the variable names given here may be different, you will need to make sure they are consistent across platforms otherwise you may experience difficulties).
+You can then use the variables prolific_pid study_id or session_id later on to pipe values to Gorilla or a similar additional service. An example of porting variables out of REDCap is explained at [10.9   External Study Credit Granting with REDCap (REDCap \> SONA)] (please note, the variable names given here may be different, you will need to make sure they are consistent across platforms otherwise you may experience difficulties).
 
 Lastly, you will need to eventually return your participants to Prolific, and give them a completion code. This can either be done using URL redirects, or by giving them a completion code manually. Select the option you'd like to use. You can also customise completion URLs and code based on conditional logic that you could include within your REDCap survey, such as attentional checks for careless/insufficient effort responding.
 
@@ -402,31 +408,26 @@ Description automatically generated\](file:////Users/nt906822/Library/Group%2520
 
 Description automatically generated"}All of the fields in this instrument are editable.
 
-• You can change them by selecting the 'Edit' button
+-   You can change them by selecting the 'Edit' button ![](images/edit.png){width="36"}
 
-• !\[Graphical user interface, text, application, email
+```{=html}
+<!-- -->
+```
+-   You can move them by selecting the 'Move' button ![](images/move.png){width="38"}
 
-Description automatically generated\](file:////Users/nt906822/Library/Group%2520Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image072.png){alt="Graphical user interface, text, application, email
-
-Description automatically generated"}!\[Graphical user interface, text, application, email
-
-Description automatically generated\](file:////Users/nt906822/Library/Group%2520Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image073.png){alt="Graphical user interface, text, application, email
-
-Description automatically generated"}You can move them by selecting the 'Move' button
-
-• You can delete them by selecting the 'Delete' button
+-   You can delete them by selecting the 'Delete' button ![](images/delete.png)
 
 You should edit the information sheet and consent form with the correct contact details and information (prompts are included), or the specific wording you have on your ethically approved information sheet/consent form.
 
 You can see how the survey looks to a participant by going to the 'Survey Distribution Tools' page
 
-## 10.6   Setting up a Gorilla account and experiment
+## 10.6 Setting up a Gorilla account and experiment
 
 You can find information on how to get a gorilla account, how to subscribe to the University subscription in order to access tokens, and how to set up your experiment [here.](https://livereadingac.sharepoint.com/:f:/s/grp-spcls-pclsstaffinformation/EtxQTN51Fv1Avh5wYaYFMi8BjHCyGjEm_T_P1qg7bs3Etw) You can also find step by step guidance on [Gorilla's support webpages](https://support.gorilla.sc/support/). 
 
 Quick links for:
 
-[Accessing the UoR subscription](https://support.gorilla.sc/support/reference/subscription-FAQ#howdoiaccessmysubscription) (you will need to use the enrolment code: PCLS_2021)
+[Accessing the UoR subscription](https://support.gorilla.sc/support/reference/subscription-FAQ#howdoiaccessmysubscription) (you will need to use the enrolment code: [PCLS_2021]{style="color:red"})
 
 [Requesting tokens](https://support.gorilla.sc/support/reference/subscription-FAQ#howdoirequesttokens)
 
@@ -436,19 +437,19 @@ Quick links for:
 
 [How to set up experiments](https://support.gorilla.sc/support/reference/faq/experiments#overview)
 
-## 10.7   Recognising URLS from SONA, Gorilla and REDCap
+## 10.7 Recognising URLS from SONA, Gorilla and REDCap
 
 You are going to be using URLs from SONA, REDCap and Gorilla within this process. You will find further guidance below on how to find/adapt the correct URLs for each platform, however it might be useful to get to know what each platforms' URLs might look like and how to tell them apart.
 
 SONA URLs
 
-[https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[sona_id:value](https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=%5bsona_id:value)\]
+https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[sona_id:value\]
 
 The SONA URL you will be using should have 'rdg-psychology' and 'sona-systems' within it.
 
 REDCap URLs
 
-[https://uor-redcap.reading.ac.uk/surveys/?s=NJJDHWCRH898JN38&ppt_id=%SURVEY_CODE%](https://uor-redcap.reading.ac.uk/surveys/?s=NJJDHWCRH898JN38&ppt_id=%25SURVEY_CODE%25)
+https://uor-redcap.reading.ac.uk/surveys/?s=NJJDHWCRH898JN38&ppt_id=%SURVEY_CODE%
 
 The REDCap URL you will be using should have 'uor-redcap' within it.
 
@@ -458,7 +459,7 @@ https://research.sc/participant/login/dynamic/3A3E0826-CF98-4846-AC1D-89E635E55B
 
 The Gorilla URL you will be using should have 'research.sc' within it. It will not necessarily have the word 'gorilla' in it.
 
-## 10.8   Deleting test participant data from Gorilla
+## 10.8 Deleting test participant data from Gorilla
 
 When you are testing the pipeline using a test participant ID from SONA, you may want to test the process more than once. As SONA will always provide the same test participant ID, you will need to delete any test data before running the process again, as gorilla will only accept one set of data per participant ID.
 
@@ -490,15 +491,21 @@ You will find the completion link on your study information page on SONA under '
 
 The URL will look something like this:
 
+::: {style="color:brown"}
 https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[sona_id:value\]
+:::
 
-You now need to edit the URL so that SONA knows where to find the participant ID on REDCap. On our REDCap Consent form, the participant ID was stored in a field we created called 'ppt_id'. So, we will replace the URL parameter 'survey_code=\[sona_id:value\]' with 'survey_code=\[ppt_id\]'.
+You now need to edit the URL so that SONA knows where to find the participant ID on REDCap. On our REDCap Consent form, the participant ID was stored in a field we created called 'ppt_id'. So, we will replace the URL parameter '[survey_code=\[sona_id:value\]]{style="color:brown"}' with '[survey_code=\[ppt_id\]]{style="color:brown"}'.
 
 Your URL should then look something like this:
 
-https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[ppt_id*\]*
+::: {style="color:brown"}
+https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855[&survey_code=\[ppt_id\]]{style="background-color:yellow"}
+:::
 
+::: {style="color:red"}
 (Remember not to directly use our example links/URLs as they will not work, you need to use your own project's URLs)
+:::
 
 #### 10.9.1.2  Entering the SONA completion URL/link into REDCap survey direction settings
 
@@ -508,7 +515,13 @@ In the survey settings you will need to find the 'direct to a URL' setting under
 
 ![Finding REDCap survey redirection setting to enter SONA completion link](images/10_9_3.png){#fig-10.9.3}
 
-Paste the edited SONA URL (the one that looks like our example: https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855&survey_code=\[ppt_id\]*)* into the 'redirect to a URL' setting under 'Survey Termination Options' within the survey settings for the Information Sheet and Consent Form.
+Paste the edited SONA URL (the one that looks like our example:
+
+::: {style="color:brown"}
+https://rdg-psychology.sona-systems.com/webstudy_credit.aspx?experiment_id=2532&credit_token=c4dbc01a4b5a4dd8ad3042e00683c855[&survey_code=\[ppt_id\]]{style="background-color:yellow"}
+:::
+
+) into the 'redirect to a URL' setting under 'Survey Termination Options' within the survey settings for the Information Sheet and Consent Form.
 
 ![Entering SONA completion link into REDCap survey termination settings to send participant back to SONA for automatic crediting](images/10_9_4.png){#fig-10.9.4}
 
